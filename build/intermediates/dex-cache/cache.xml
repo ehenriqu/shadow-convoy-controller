@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0d22e00fa5896af5a964a8d0e0a740403c06a51a">
+        <dex dex="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/pre-dexed/debug/instant-run_36685cb4a531cef97de21f585b3325eaac719f87.jar" />
+    </item>
+    <item
+        jar="/home/erik/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_5bbf1dab696c7b42a0c1f03b68f638ec97b11615.jar" />
+    </item>
+    <item
+        jar="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_e637bfbddcd20bd73a12ab20c3aa8293fe578818.jar" />
+    </item>
+    <item
+        jar="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_9cde257808fde9dcf020ca9dcc664fe35bda4c99.jar" />
+    </item>
+    <item
+        jar="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_cf771b4afb9e41b3b9f14e562c81058d02a7c286.jar" />
+    </item>
+    <item
+        jar="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_9de90df131d4d4ceb01169e9f558d93e16e8b22a.jar" />
+    </item>
+    <item
+        jar="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="18b5eb79518a1a7c10d49e82ff947f8122026489">
+        <dex dex="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_bdbf2a15569189e41e5284a21a437de8d991ce4a.jar" />
+    </item>
+    <item
+        jar="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/erik/Android Studio/Projects/ShadowConvoyController/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_117a3308849ad541fb77bfaafa38fae088cfc64b.jar" />
+    </item>
+
+</items>
